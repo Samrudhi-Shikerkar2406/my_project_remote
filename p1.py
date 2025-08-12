@@ -1,2 +1,3 @@
 print("cow")
-print("meow")
+print("sam")
+
